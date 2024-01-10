@@ -14,3 +14,5 @@ This simple React application demonstrates basic API usage skills using Chakra U
 - React Router
 - Chakra UI
 
+## Live - https://react-api-chakra.vercel.app/exchanges
+
